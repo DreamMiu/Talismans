@@ -41,5 +41,5 @@ jobs:
 #           automatic_release_tag: latest
 #           prerelease: true
 #           files: |
-#             bin/EcoEnchants v*.jar
+#             bin/Talismans v*.jar
 #             LICENSE
